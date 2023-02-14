@@ -1,0 +1,9 @@
+Mỗi tập tin là một phần
+Mỗi tập tin sẽ chứa nội dung của phần đó và tài liệu bổ sung.
+
+Sẽ có ba loại tệp: tệp "tóm tắt", tệp "đầy đủ" và tệp "đánh giá"
+	~ là tệp tóm tắt
+	# là tệp đầy đủ
+	!! là tệp đánh giá
+( #_2.10.4 tức là phần 2, tệp đầy đủ số 10, phiên bản 4 )
+Tệp đánh giá số 0 sẽ chứa nội dung chung của cả tập tin.

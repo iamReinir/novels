@@ -1,0 +1,72 @@
+# OneWindedAngel world building
+
+Các yếu tố đặc biệt của thế giới:
+
+> Ma lực
+> Cấp độ
+> Dungeon
+> Dungeon
+> Chủng loài
+
+## Ma lực
+
+Năng lượng ở dạng thuần thuý. Các sinh vật có linh hồn có thể chuyển đổi năng lượng này thành dạng khác, và chuyển năng lượng dạng khác thành ma lực. Sinh vật không có linh hồn không thể làm chuyện này.
+
+Vì là năng lượng, ma lực của riêng một cá nhân không thể tự hồi phục như trong game được. (thực ra là có, nhưng mà cực chậm. Ma lực có thể được lấy từ thức ăn, nhiệt độ, ma lực tự nhiên, thức ăn là nhanh nhất, ma lực tự nhiên là chậm nhất, lấy ma lực từ nhiệt độ khiến người dùng trở thành một cái máy điều hoà.)
+
+## Dungeon.
+
+Được gọi là "Ổ quái vật". Thực ra là một hệ sinh thái, sống nhờ vào ma lực tuông ra từ hành tinh (giống như những sinh vật sống gần miệng phun thuỷ nhiệt). Những sinh vật ở đây tiến hoá để sử dụng ma lực trong cuộc sống của chúng, nhưng lượng ma lực mà chúng dám dùng thì ít, không như con người.
+
+## Cấp độ.
+
+là một phép thuật mở rộng linh hồn, do "Hai thần" dùng để tạo ra vũ khí chiến tranh. Ma thuật này có thể "nuốt" ma lực từ các sinh vật khác và đưa nó vào một "kho lưu trữ chung", ma lực này sẽ được chia ra cho những người khác, với số lượng tuỳ thuộc.
+"Nhân" biểu thị độ ưu tiên này bằng một con số : cấp độ. Cấp độ chỉ lượng ma lực mà một "Nhân" nhận được từ bể ma lực chung. Con số này tỉ lệ thuận với sự hữu dụng của "Nhân" đó với "Nhân Thần". Kẻ cấp độ thấp có rất ít ma lực, nên không thể chiến đấu nhiều, không thể có ích nhiều. Kẻ cấp độ cao có nhiều ma lực, có thể chiến đấu nhiều, nên cực kì hữu dụng. Điều này tạo nên một vòng lặp : Cấp độ càng cao thì càng dễ tăng cấp.
+"Ma" quyết định không biểu thị độ ưu tiên này. "Ma thần" là người quyết định độ ưu tiên, trực tiếp.
+Vì thế, một "Ma" trung bình sẽ mạnh hơn hẳn một "Nhân" trung bình, nhưng "Nhân" mạnh nhất thì mạnh hơn "Ma" mạnh nhất.
+"Nhân" sẽ thắng khi giao tranh nhỏ, nhưng "Ma" mạnh hơn hẳn trong giao tranh tổng lực.
+
+## Anh Hùng và Ma Vương.
+
+//
+Tuy nhiên, có một chiến thuật cực kì hiệu quả mà cả hai bên đều dùng. Bằng cách tập trung nguồn sức mạnh vào một vài cá thể, thành một đội hình, "Thần" có thể tạo ra vũ khí huỷ diệt hàng loạt. Giống như một quả bom, có thể quét sạch cả một đội quân.
+"Nhân thần" nảy ra ý tưởng ăn trộm năng lượng từ thế giới khác.
+"Ma Thần" từ đó, tìm ra được cách để ăn trộm trực tiếp từ những cá thể cực mạnh của "Nhân thần"
+//
+
+Lúc gần thua, Nhân thần nghĩ ra một trò: ăn trộm năng lượng từ thế giới khác. Các "Anh Hùng" được triệu hồi thực chất là một cái "terminal" dẫn đến thế giới ban đầu, một cái cổng hút năng lượng.
+
+Trò này khá là hiệu quả, cho đến khi Ma thần tạo ra "vũ khí chống Anh Hùng" - Quỷ Vương. Thứ vũ khí với tác dụng duy nhất là ngăn Anh Hùng lại. Tỉ lệ thành công của Quỷ Vương là 100%
+
+Cho đến khi Kou xuất hiện.
+
+Kou là một "Anh Hùng", nhưng Kou lại hoàn toàn không phải là một terminal. Sản phẩm thất bại đầu tiên.
+
+Nhưng, Kou có một số thứ cực kì quan trọng:
+Kou là kẻ đầu tiên có thể tiêu diệt một Quỷ Vương. (Đám trước toàn tự huỷ)
+Kou sở hữu ma thuật độc nhất: Anima, một ma thuật có thể tăng tốc suy nghĩ, thứ mà đến cả thần cũng không làm được.
+
+Những thứ đó khiến Ma Thần muốn có được Kou, nhưng lại khiến Nhân Thần muốn loại bỏ Kou, biết được khả năng của anh ta.
+
+
+## Mạo hiểm giả : những kẻ chiến đấu trong dungeon.
+
+Ma cụ xác định cấp độ rất đắt, nên mạo hiểm giả được chia theo từng bậc:
+- F : thẻ chì, cấp 1 - 20
+- E : thẻ đồng, cấp 21 - 40
+- D : thẻ bạc, cấp 41 - 60
+- C : thẻ vàng, cấp 61 - 80
+- B : thẻ Ma Bạc, cấp 81 - 100
+- A : thẻ Hắc Thạch, cấp 101 - 120
+- S : thẻ Thánh Kim, > cấp 120
+
+Ma Bạc : Một loại kim loại màu trắng bạc, nhẹ và cứng. Giống Titanium. + Dẫn ma lực tốt.
+
+Hắc Thạch : Kim loại màu đen, cực kì cứng, giống thép. + Dẫn ma lực trung bình.
+
+Thánh Kim : (Platium) Đắt. Không có tính chất gì đáng kể.
+
+
+
+
+
