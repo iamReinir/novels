@@ -1,0 +1,18 @@
+Riel: 
+Từ tuyệt vọng bỏ mặc số phận cho đến dùng toàn bộ sức mình để cứu lấy hiện tại.
+
+Là một nô lệ
+@ Được Eisen mua, đối xử tốt
+# Xin được giúp Eisen.
+# Xin ở lại với Eisen
+#/@ Riel đồng ý bán thông tin của Eisen cho một kẻ khả nghi.
+# Riel quyết định không bán nữa.
+# Riel quyết định bám theo Eisen dù bị cấm.
+@ Cố chạy thoát trong khi vác theo Eisen đang bị thương
+# Khóc, xin được ở lại với Eisen.
+
+Eisen: Từ bám lấy quá khứ cho đến nhìn vào hiện tại.
+
+Note:
+@ là sự kiện ngoại cảnh
+# là sự kiện nội cảnh

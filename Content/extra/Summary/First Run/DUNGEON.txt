@@ -1,0 +1,16 @@
+Các khu vực rò rỉ ma lực sẽ là một sự tồn tại gần giống với dungeon. 
+Các loại "Dungeon":
+
+    Rừng Ma Thuật : Khu rừng dày đặc chứa đầy quái vật và các dị biến ma thuật. 
+
+    Ổ Quái Vật : Những hang động chứa đầy quái vật. Kích cỡ và cấu trúc giống một cái hang bình thường, nếu không tính đám quái vật và các dị biến. Là loại Dungeon thường thấy. Các thành phố lớn thường mọc lên xung quanh miệng hang.
+
+    Hàm của Quái Vật : Một cái Ổ Quái Vật đủ lớn sẽ khiến Rừng Ma Thuật mọc lên xung quanh và thành một cái Hàm của Quái Vật. Khu Rừng xung quanh Hàm của Quái Vật cũng rộng hơn hẳn một Rừng Ma Thuật bình thường. Số lượng và chủng loại quái vật cực nhiều. 
+
+Loại Đặc biệt: Thường nằm ở trung tâm các Rừng Ma rộng lớn.
+
+    Vườn Thiên Đàng : Một chùm các khu rừng bay. 
+
+    Vực Thẳm : Một cái hố khổng lồ
+
+    Trụ Chống Trời : Vườn Thiên Đàng + Vực Thẳm
