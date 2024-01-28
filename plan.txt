@@ -1,0 +1,13 @@
+OWA sẽ được viết dùng một quy trình gần tương tự với Spiral Model của SE.
+
+1.Cô đọng ra phần "lõi" của truyện - con mắt của cả câu truyện. = requirement
+2.Quyết định tam trụ: plot, character, setting. = design
+3.Implement. 
+4.Reread. Quyết định có nên đi tiếp không? = testing
+
+Phần lõi nó sẽ ntn? Nó là thứ mà tg muốn viết ra.
+	Một câu logline?
+	Một sự kiện?
+	Một concept?
+	
+
